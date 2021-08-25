@@ -87,6 +87,10 @@ Class should path set for the above
 
 > mvn clean install
 
+3. To try Sample input below command and enter the text from [Input](#input) you can expect results as [Output](#output)
+> mvn exec:java -Dexec.mainClass="com.akqa.Main"
+
+
 ### Test Cases
 
 1. All meetings days are successfully created
