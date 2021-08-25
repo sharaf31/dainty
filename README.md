@@ -60,7 +60,7 @@ day. For the sample input displayed above, your system must provide the followin
 
 ## Solution
 
-Simple Application to Take input via the commandline and out the same
+Simple Application to Take input via the commandline and output the meetings which complies to the contstraints
 
 ### Technologies used to Develop
 
@@ -75,11 +75,11 @@ Simple Application to Take input via the commandline and out the same
 * JDK v11 and above
 * Maven 3.8 and above
 
-Class should path set for the above
+Class path should be set for the above language and framework.
 
 ### How to Run
 
-1. Import the project into the workspace
+1. Import the project into the workspace from github. 
 
 > git clone https://github.com/sharaf31/dainty.git
 
